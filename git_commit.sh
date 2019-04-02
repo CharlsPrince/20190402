@@ -8,4 +8,6 @@ git commit -m $msg
 
 git push origin master
 
+echo "提交成功!"
+
 exit 0
